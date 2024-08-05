@@ -1,0 +1,1 @@
+from .stocksearchermaker import stocksearcher
