@@ -1,0 +1,3 @@
+[submodule "stocksync/stockprice"]
+	path = stocksync/stockprice
+	url = https://github.com/chenyangkang/StockPrice
